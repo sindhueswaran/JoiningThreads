@@ -41,9 +41,9 @@ clients:
     url: "http://www.kinderhimal.de/joybells.htm"
     name: Joybells School  
   - image: "/img/clients/logo1.jpg"
-    url: "http://www.kilmora.in/"
+    url: "#"
     name: Kilmora
-  - image: "#"
+  - image: "/img/clients/da150p.jpg"
     url: "#"
     name: Dr Atul Negi
   - image: "/img/clients/logo1.jpg"
