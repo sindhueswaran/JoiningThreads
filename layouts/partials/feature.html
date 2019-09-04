@@ -1,0 +1,29 @@
+<section id="feature" style="background-color: lightgray;">
+  
+
+<div class="container">
+  <div class="row">
+      <div class="col-md-12">
+          <div class="text-uppercase" >
+            <h2 class="text-uppercase">Who we work with </h2>
+          </div> 
+          
+          <br> <br><br>
+          <div class="block" >
+              <div id="clients-logo" class="owl-carousel">
+                  {{ range .Site.Data.work.clients }}
+                  <div class="clients-logo-img">             
+                   <a href="{{ .url }}" target="_blank" >
+                      <h4 style="text-decoration: none; color: dimgray;">{{ .name }}</h4>
+                      <img src="{{ $.Site.BaseURL }}{{ .image }}" alt="Features">
+                   </a>
+                  </div>
+                  {{ end }}
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+</section>
+

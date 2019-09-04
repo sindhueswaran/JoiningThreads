@@ -1,0 +1,32 @@
+
+{{ if .Site.Data.team.enable }}
+<!-- team Start -->
+<section id="team">
+  <div class="container"  style="padding-bottom: 50px;">
+
+    <!-- Intro -->
+    <div class="row">
+      <div class="section-title" style="padding-top: 50px;">
+        <h2>{{ .Site.Data.team.title }}</h2>
+        <p>{{ .Site.Data.team.subtitle }}</p>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      {{ range .Site.Data.team.content }}
+      <div class="col-xs-6  ">
+        <div class="team-item" style="padding: 5%;">
+            <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" style="width: 30%"/>
+          <h4>{{ .name }}</h4>
+          <p>{{ .text }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+
+
+ 

@@ -1,0 +1,75 @@
+<!-- Wrapper Start -->
+<section id="intro"  >
+  <div class="container" >
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="block">
+          <div class="section-title" >
+            <h2>{{ .Site.Params.wrapper.title }}</h2>
+           <!--<p>{{ .Site.Params.wrapper.italic }}</p>  -->
+          </div>
+
+
+    <div class="container" >
+      <div class="row">
+       <div class="col-md-12">
+        <div class="block">
+        <div class="project">
+        
+        <ul>
+        {{ range .Site.Data.work.portfolio }}
+        <li class="project-item">
+          <div class="card col-sm-4"  >
+            <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" alt="Card image">
+            <div class="card-body">
+              <h4 class="card-title">{{ .name }}</h4>
+              <p class="card-text">{{ .description }}</p>    
+            </div>
+          </div>     
+        </li>
+        {{ end }}
+        </ul>
+        </div>
+        </div>
+        </div>
+
+
+  </div>  
+  </div>
+  </div>
+</section>
+
+
+
+
+<!--  <section id="portfolio-work" >
+  <div class="container" >
+    <div class="row">
+        <div class="col-md-12">
+            <div class="block">
+                <div class="portfolio-contant">
+                  <ul id="portfolio-contant-active">
+                      {{ range .Site.Data.work.portfolio }}
+                      <li class="mix {{ .category }}">
+                          <a class="venobox" href="{{ $.Site.BaseURL }}{{ .image }}">
+                              <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" />
+                              <div class="overly">
+                                  <div class="position-center">
+                                     <a href="{{ .url }}"> 
+                                      <h2>{{ .name }}</h2>
+                                      <p>{{ .description }}</p>
+                                    </a>
+                                    </div>
+                              </div>
+                          </a>
+                      </li>
+                      {{ end }}
+                  </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+</section> -->
