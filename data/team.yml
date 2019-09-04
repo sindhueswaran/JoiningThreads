@@ -1,0 +1,15 @@
+enable: true
+title: About us
+subtitle: >
+   
+content:
+
+  - image: "/img/team/yb.jpg"
+    name: Barbara Münz
+    text: >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+
+  - image: "/img/team/sindhu.jpg"
+    name: Sindhu Eswaran
+    text: >
+      Sindhu is an educator and enthusiastic knitter whose interests have combined in her ongoing work with women and children. In 2017  a ‘short travel’ turned into her home base where travel she found herself working for AtmaSeva in administrative support and tutoring a few children in English and creating health and hygiene awareness with girls and women from below poverty level income families. She met Yogabija in 2018 and the two of them visit different projects together.

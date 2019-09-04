@@ -1,0 +1,29 @@
+enable: true
+title: How can you help?
+subtitle: >
+  Write to us to know how you can support us in any of the following.
+content:
+
+  - icon: ion-leaf
+    img: "/img/svg/color/bank.svg"
+    name: Make a donation to cover our travel expenses to reach out to more projects.
+    text: >
+       
+
+  - icon: ion-planet
+    img: "/img/svg/color/dove.svg"
+    name: By placing orders with our partners.
+    text: >
+       
+
+  - icon: ion-earth
+    img: "/img/svg/color/teamwork.svg"
+    name: Connecting us with projects and platforms.
+    text: >
+       
+
+  - icon: ion-earth
+    img: "/img/svg/color/heart.svg"
+    name: Donating craft materials yarn and needles.
+    text: >
+          

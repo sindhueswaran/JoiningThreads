@@ -1,0 +1,54 @@
+enable: true
+title: Just some of our latest projects.
+subtitle: Don’t just take our word for it. Check out some of our latest .
+
+# google support the latest technology for image optimization. you can also optimize your image from https://www.ps2pdf.com/convert-jpg-to-webp here.
+portfolio:
+  - category: Skill building
+    image: "/img/portfolio/knitting.jpg"
+    url: "/blog/migrate-from-jekyll/"
+    name: Women Skill building
+    description: >
+      We have worked with women, youth and children sharing knitting,felting and sewing techniques through workshops for different NGO’s at Rishikesh, Gaindkal and Ranipokhari areas in Uttarakhand. One group now regularly take orders through their NGO’s and are selling felted yoga mats, cushions covers, hand warmers, hot water bottle covers. We are currently training women to knit socks. 
+  - category: Education
+    image: "/img/portfolio/children.jpg"
+    url: "/blog/migrate-from-jekyll/"
+    name: Education
+    description: >
+      We conduct workshops using crafts and arts for teachers and students and discuss strength in co operating, team building, interconnectedness and creative ways to facilitate learning activities in the classroom.
+  - category: Markets
+    image: "/img/portfolio/teacher.jpg"
+    url: "/blog/migrate-from-jekyll/"
+    name: Connecting to Markets
+    description: >
+      We link groups within our network to buy some of the products. For e.g. Atma Seva buys felted hot water bottle covers and knitted hand warmers from the women groups and La vollete in Germany buys bags and buttons from Janmadhyam.
+  
+      
+clients:
+  - image: "/img/clients/atmaseva1.png"
+    url: "https://www.atmaseva.co.uk/"
+    name: Atma Seva
+  - image: "/img/clients/empowerherlogo.png"
+    url: "https://empowerher.in/"
+    name: EmpowerHer
+  - image: "/img/clients/logo1.jpg"
+    #url: "http://www.janmadhyam.org/"
+    name: Janmadhyam
+  - image: "/img/clients/nirvanalogo.png"
+    url: "https://towardsnirvana.org/"
+    name: Nirvanavan Foundation
+  - image: "/img/clients/joybells.jpg"
+    url: "http://www.kinderhimal.de/joybells.htm"
+    name: Joybells School  
+  - image: "/img/clients/logo1.jpg"
+    #url: "http://www.kilmora.in/"
+    name: Kilmora
+  - image: "/img/clients/da150p.jpg"
+    url: "#"
+    name: Dr Atul Negi
+  - image: "/img/clients/logo1.jpg"
+    url: "#"
+    name: Devbhoomi handicraft felt centre  
+  - image: "/img/clients/logo1.jpg"
+    url: "#"
+    name: Jolly Puppets  
