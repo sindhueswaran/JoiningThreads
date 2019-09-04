@@ -9,7 +9,7 @@ portfolio:
     url: "/blog/migrate-from-jekyll/"
     name: Women Skill building
     description: >
-      We have worked with women, youth and children sharing knitting,felting and sewing techniques through workshops for different NGO’s at Rishikesh, Gaindkal and Ranipokhari areas in Uttarakhand. One group now regularly take orders through their NGO’s and are selling felted yoga mats, cushions covers, hand warmers, hot water bottle covers. We are currently training women to knit socks. 
+      We work  with women, youth and children sharing knitting,felting and sewing techniques through workshops for different NGO’s at Rishikesh, Gaindkal and Ranipokhari areas in Uttarakhand and Alwar district in Rajasthan.
   - category: Education
     image: "/img/portfolio/children.jpg"
     url: "/blog/migrate-from-jekyll/"
@@ -32,7 +32,7 @@ clients:
     url: "https://empowerher.in/"
     name: EmpowerHer
   - image: "/img/clients/logo1.jpg"
-    #url: "http://www.janmadhyam.org/"
+    url: "http://www.janmadhyam.org/"
     name: Janmadhyam
   - image: "/img/clients/nirvanalogo.png"
     url: "https://towardsnirvana.org/"
@@ -41,7 +41,7 @@ clients:
     url: "http://www.kinderhimal.de/joybells.htm"
     name: Joybells School  
   - image: "/img/clients/logo1.jpg"
-    #url: "http://www.kilmora.in/"
+    url: "http://www.kilmora.in/"
     name: Kilmora
   - image: "/img/clients/da150p.jpg"
     url: "#"
