@@ -32,7 +32,7 @@ clients:
     url: "https://empowerher.in/"
     name: EmpowerHer
   - image: "/img/clients/logo1.jpg"
-    url: "http://www.janmadhyam.org/"
+    url: "#"
     name: Janmadhyam
   - image: "/img/clients/nirvanalogo.png"
     url: "https://towardsnirvana.org/"
@@ -43,7 +43,7 @@ clients:
   - image: "/img/clients/logo1.jpg"
     url: "http://www.kilmora.in/"
     name: Kilmora
-  - image: "/img/clients/da150p.jpg"
+  - image: "#"
     url: "#"
     name: Dr Atul Negi
   - image: "/img/clients/logo1.jpg"
