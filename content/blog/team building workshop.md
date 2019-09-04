@@ -4,7 +4,7 @@ date = "2017-06-24T13:50:46+02:00"
 description = "At Nirvanavan foundation"
 tags = ["workshop"]
 categories = ["workshop"]
-image = "img/blog/krishna1.jpg"
+image = "img/blog/krishna33.jpg"
 summary = "Krishna one of the secondary school teachers, a beginner knitter felt she couldn’t learn the craft and hesitant when things went wrong."
 +++
 
