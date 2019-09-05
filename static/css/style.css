@@ -542,12 +542,14 @@ font header .navbar-default .navbar-nav li a:hover {
 #clients-logo-section .clients-logo-img {
     padding: 0px 0px;
     justify-content: center;
+    text-align: center;
 }
 
-.clients-logo-img .a .h4 {
+.clients-logo-img a h4 {
     text-decoration: none;
-     
-     
+    text-align: match-parent;
+    font-size: 15px;
+          
 }
 
 .owl-item{
