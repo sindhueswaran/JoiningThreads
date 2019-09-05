@@ -1,7 +1,7 @@
 enable: true
 title: How can you help?
 subtitle: >
-  Write to us to know how you can support us in any of the following.
+  
 content:
 
   - icon: ion-leaf
@@ -12,7 +12,7 @@ content:
 
   - icon: ion-planet
     img: "/img/svg/color/dove.svg"
-    name: By placing orders with our partners.
+    name: By buying or selling  products from our partners.
     text: >
        
 
@@ -24,6 +24,6 @@ content:
 
   - icon: ion-earth
     img: "/img/svg/color/heart.svg"
-    name: Donating craft materials yarn and needles.
+    name: Donating craft materials and other supplies. 
     text: >
           
