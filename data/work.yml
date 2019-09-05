@@ -7,21 +7,21 @@ portfolio:
   - category: Skill building
     image: "/img/portfolio/knitting.jpg"
     url: "/blog/migrate-from-jekyll/"
-    name: Women Skill building
+    name: Women Skill Building
     description: >
-      We work  with women, youth and children sharing knitting,felting and sewing techniques through workshops for different NGO’s at Rishikesh, Gaindkal and Ranipokhari areas in Uttarakhand and Alwar district in Rajasthan.
+      We work with women, youth and children sharing knitting, felting and sewing techniques through workshops for different NGOs in New Delhi, Rajasthan and Uttarakhand states of India.
   - category: Education
     image: "/img/portfolio/children.jpg"
     url: "/blog/migrate-from-jekyll/"
     name: Education
     description: >
-      We conduct workshops using crafts and arts for teachers and students and discuss strength in co operating, team building, interconnectedness and creative ways to facilitate learning activities in the classroom.
+      Teacher training and classes with children and youth through  arts and crafts to facilitate  different ways of learning through activities in the classroom.
   - category: Markets
     image: "/img/portfolio/teacher.jpg"
     url: "/blog/migrate-from-jekyll/"
     name: Connecting to Markets
     description: >
-      We link groups within our network to buy some of the products. For e.g. Atma Seva buys felted hot water bottle covers and knitted hand warmers from the women groups and La vollete in Germany buys bags and buttons from Janmadhyam.
+      We link groups within our network to buy some of the products. For e.g. Atma Seva buys felted hot water bottle covers and knitted hand warmers from the women groups and La Vollete in Germany buys cloth bags and felted buttons from Janmadhyam.
   
       
 clients:
