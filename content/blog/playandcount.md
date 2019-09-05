@@ -4,7 +4,7 @@ date = "2019-02-27T13:50:46+02:00"
 description = "Play and Count" 
 tags = ["workshop"] 
 categories = ["workshop"] 
-image = "img/blog/playandcount/frontimage.jpg/" 
+image = "img/blog/playandcount/pnc1.jpg/" 
 author = "Sindhu Eswaran" 
 summary = "These moments are taken from the elementary classes at Nirvanavan, where the kids are making felt balls that are later going to be used as learning aids in counting and sorting." 
 +++
