@@ -15,6 +15,6 @@ Drawing similarities to children learning at their own pace, the teachers took t
 
 <br><br>
 
-<img src="/img/blog/krishna/krishna1.jpg" style="width: 30%; margin-right: 50px;">
-<img src="/img/blog/krishna/krishna11.jpg" style="width: 30%; margin-right: 50px">
+<img src="/img/blog/krishna/krishna1.jpg" style="width: 30%; margin-right: 30px;">
+<img src="/img/blog/krishna/krishna11.jpg" style="width: 30%; margin-right: 30px">
 <img src="/img/blog/krishna/krishna111.jpg" style="width: 30%;">
