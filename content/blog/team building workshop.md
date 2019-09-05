@@ -5,6 +5,7 @@ description = "At Nirvanavan Foundation"
 tags = ["workshop"]
 categories = ["workshop"]
 image = "img/blog/krishna/krishna33.jpg"
+author = "Sindhu"
 summary = "Krishna, teacher and a beginner knitter, was hesitating to knit with her peers who had some experience."
 +++
 
