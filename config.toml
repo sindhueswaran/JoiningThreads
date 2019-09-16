@@ -58,7 +58,7 @@ theme = "airspace-hugo"
   [params.slider]
     enable = true
     title = "Joining threads <br> Joining lives"
-    subtitle = "Encouraging creativity empowers and strengthens our resourcefulness and talent; availing possibilities to improve livelihoods. We do this by sharing crafting skills with women and children at different projects in North India."
+    subtitle = "Encouraging creativity empowers and strengthens our resourcefulness and talent, availing possibilities to improve livelihoods. We do this by sharing crafting skills with women and children at different projects in North India."
     bgImage = "img/hero2.jpg"
     btnText = "Our Projects"
     url = "/donate"
