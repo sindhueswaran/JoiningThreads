@@ -13,10 +13,11 @@
 		<div class="container">
 			<div class="row">
 				{{ range (.Paginator 6).Pages }}
-				<div class="col-md-6">
-					<article class="blog-post">
+				<div class="col-md-4">
+					<article class="blog-post"> <a href="{{ .Permalink }}"> 
 						{{ with .Params.image }}
-						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb" style= "max-height: 310px; text-align: center;"> {{ end }}
+						
+						<img src="{{ . | absURL }}" class="img-responsive" alt="post-thumb" style= "max-height: 200px; text-align: center;"> {{ end }} </a>
 						<a class="post-title" href="{{ .Permalink }}"><h2> {{ .Title }} </h2></a>
 						<p>
 							{{ .Summary }}
