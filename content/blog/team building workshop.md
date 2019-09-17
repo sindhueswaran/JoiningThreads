@@ -4,7 +4,7 @@ date = "2019-02-28T13:50:46+02:00"
 description = "At Nirvanavan Foundation"
 tags = ["workshop"]
 categories = ["workshop"]
-image = "img/blog/krishna/krishna33.jpg"
+image = "/img/blog/krishnablog/kb1.jpg"
 author = "Sindhu Eswaran"
 +++
 
@@ -13,6 +13,6 @@ Drawing similarities to children learning at their own pace, the teachers took t
 
 <br><br>
 
-<img src="/img/blog/krishna/krishna1.jpg" style="width: 30%; margin-right: 30px;">
-<img src="/img/blog/krishna/krishna11.jpg" style="width: 30%; margin-right: 30px">
-<img src="/img/blog/krishna/krishna111.jpg" style="width: 30%;">
+<img src="/img/blog/krishnablog/kb1.jpg" style="width: 30%; margin-right: 30px;">
+<img src="/img/blog/krishnablog/kb2.jpg" style="width: 30%; margin-right: 30px">
+<img src="/img/blog/krishnablog/kb3.jpg" style="width: 30%;">
