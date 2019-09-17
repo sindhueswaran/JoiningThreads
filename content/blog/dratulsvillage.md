@@ -6,6 +6,7 @@ tags = ["knitting", "workshop", "theme", "hugo"]
 categories = ["workshop"]
 author = "Sindhu"
 image = "img/blog/dratullsvilage.jpg"
+summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 +++
  
 
