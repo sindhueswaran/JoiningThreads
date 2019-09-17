@@ -4,7 +4,7 @@ date = "2019-03-12T13:50:46+02:00"
 description = "Tug of war" 
 tags = ["workshop"] 
 categories = ["workshop"] 
-image = "img/blog/tugofwar/tugofwar1.jpg"
+image = "img/blog/tugowar/tugofwar1.jpg"
 author = "Sindhu Eswaran" 
 summary = "At this after school program for children in a poor neighbourhood where children learn numeracy, art and yoga, we joined in to play tug of war one evening." 
 +++
@@ -13,6 +13,6 @@ At this after school program for children in a poor neighbourhood where children
 
 <br><br>
 
-<img src="/img/blog/tugofwar/tugofwar1.jpg" style="width: 30%; margin-right: 30px;">
-<img src="/img/blog/tugofwar/tugofwar2.jpg" style="width: 30%; margin-right: 30px">
-<img src="/img/blog/tugofwar/tugofwar3.jpg" style="width: 30%;">
+<img src="/img/blog/tugowar/tugofwar1.jpg" style="width: 30%; margin-right: 30px;">
+<img src="/img/blog/tugowar/tugofwar2.jpg" style="width: 30%; margin-right: 30px">
+<img src="/img/blog/tugowar/tugofwar3.jpg" style="width: 30%;">
