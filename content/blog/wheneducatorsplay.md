@@ -16,5 +16,5 @@ Having rearranged the daily agenda to work with all the teaching staff at once, 
 
 <img src="/img/blog/whenteachersplay/wtp1.jpg" style="width: 30%; margin-right: 30px;">
 <img src="/img/blog/whenteachersplay/wtp2.jpg" style="width: 30%; margin-right: 30px">
-<img src="/img/blog/whenteachersplay/wtp3.jpg" style="width: 30%;">
+<img src="/img/blog/whenteachersplay/wtp4.jpg" style="width: 30%;">
 
