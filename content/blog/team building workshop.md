@@ -4,7 +4,7 @@ date = "2019-02-28T13:50:46+02:00"
 description = "At Nirvanavan Foundation"
 tags = ["workshop"]
 categories = ["workshop"]
-image = "/img/blog/krishnablog/kb1.jpg"
+image = "/img/blog/krishnablog/krishna33.jpg"
 author = "Sindhu Eswaran"
 +++
 
