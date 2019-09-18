@@ -8,7 +8,7 @@ image = "img/blog/gallery/6.jpg"
 summary = "A collection of images."
 +++
 
-A collection of pictures of our projects.
+A collection of pictures of our projects.<br><br>
  
   <div class="gallimg">
    <a href="/img/blog/gallery/full/1.jpg" data-lightbox="gallery"> <img src="/img/blog/gallery/thumbs/1.jpg"> </a>
