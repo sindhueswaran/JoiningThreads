@@ -13,6 +13,6 @@ At this after school program for children in a poor neighbourhood where children
 
 <br><br>
 
-<img src="/img/blog/tugowar/tugofwar1.jpg" style="width: 30%; margin-right: 30px;">
+<img src="/img/blog/tugowar/tugofwar5.jpg" style="width: 30%; margin-right: 30px;">
 <img src="/img/blog/tugowar/tugofwar2.jpg" style="width: 30%; margin-right: 30px">
 <img src="/img/blog/tugowar/tugofwar3.jpg" style="width: 30%;">
