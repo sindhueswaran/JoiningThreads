@@ -4,7 +4,7 @@ date = "2019-03-02T13:50:46+02:00"
 description = "When educators play" 
 tags = ["workshop"] 
 categories = ["workshop"] 
-image = "img/blog/whenteachersplay/wtp1.jpg" 
+image = "img/blog/whenteachersplay/wtp3.jpg" 
 author = "Sindhu Eswaran" 
 summary = "Let’s play we spoke in synchronicity" 
 +++
