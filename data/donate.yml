@@ -5,25 +5,25 @@ subtitle: >
 content:
 
   - icon: ion-leaf
-    img: "/img/svg/color/bank.svg"
+    img: "/img/svg/mandala1.png"
     name: Make a donation to cover our travel expenses to reach out to more projects.
     text: >
        
 
   - icon: ion-planet
-    img: "/img/svg/color/dove.svg"
+    img: "/img/svg/mandala3.png"
     name: By buying or selling  products from our partners.
     text: >
        
 
   - icon: ion-earth
-    img: "/img/svg/color/teamwork.svg"
+    img: "/img/svg/mandala2.png"
     name: Connecting us with projects and platforms.
     text: >
        
 
   - icon: ion-earth
-    img: "/img/svg/color/heart.svg"
+    img: "/img/svg/mandala1.png"
     name: Donating craft materials and other supplies. 
     text: >
           
