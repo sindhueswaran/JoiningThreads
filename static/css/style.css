@@ -866,6 +866,12 @@ font header .navbar-default .navbar-nav li a:hover {
     padding: 40px 0px;
 }
 
+.workbox{
+    display:block;
+    width:100%;
+    height:200px;
+    background-color:#475;	
+}
 
 /*---------------------------------------------
 					Work Close
