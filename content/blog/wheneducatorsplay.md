@@ -14,7 +14,9 @@ Having rearranged the daily agenda to work with all the teaching staff at once, 
 
 <br><br>
 
-<img src="/img/blog/whenteachersplay/wtp1.jpg" style="width: 30%; margin-right: 30px;">
-<img src="/img/blog/whenteachersplay/wtp2.jpg" style="width: 30%; margin-right: 30px">
-<img src="/img/blog/whenteachersplay/wtp4.jpg" style="width: 30%;">
-
+<div class="gallimg">
+   <a href="/img/blog/whenteachersplay/wtp1.jpg" data-lightbox="gallery"> <img src="/img/blog/whenteachersplay/wtp1.jpg"> </a>
+   <a href="/img/blog/whenteachersplay/wtp2.jpgg" data-lightbox="gallery"> <img src="/img/blog/whenteachersplay/wtp2.jpg"> </a>
+   <a href="/img/blog/whenteachersplay/wtp4.jpg" data-lightbox="gallery"> <img src="/img/blog/whenteachersplay/wtp4.jpg"> </a>
+   
+   </div>
