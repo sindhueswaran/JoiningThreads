@@ -16,4 +16,5 @@ After placing the balls to dry, the teachers discussed different ideas to use th
 
 <img src="/img/blog/playandcount/pnc2.jpg" style="width: 30%; margin-right: 30px;">
 <img src="/img/blog/playandcount/pnc3.jpg" style="width: 30%; margin-right: 30px">
-<img src="/img/blog/playandcount/pnc4.jpg" style="width: 30%;">
+<img src="/img/blog/playandcount/pnc4.jpg" style="height: 234px; margin-right: 30px">
+<img src="/img/blog/playandcount/pnc5.jpg" style="height: 234px;">
