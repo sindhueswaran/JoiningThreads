@@ -32,7 +32,7 @@ clients:
   - image: "/img/clients/empowerherlogo.png"
     url: "https://empowerher.in/"
     name: EmpowerHer
-  - image: "/img/svg/mandala3.png"
+  - image: "/img/svg/mandala1.png"
     url: "#"
     name: Janmadhyam
   - image: "/img/clients/nirvanalogo.png"
@@ -41,7 +41,7 @@ clients:
   - image: "/img/clients/joybells.jpg"
     url: "http://www.kinderhimal.de/joybells.htm"
     name: Joybells School  
-  - image: "/img/svg/mandala3.png"
+  - image: "/img/svg/mandala2.png"
     url: "#"
     name: Kilmora
   - image: "/img/clients/da150p.jpg"
@@ -50,6 +50,6 @@ clients:
   - image: "/img/svg/mandala3.png"
     url: "#"
     name: Devbhoomi handicraft felt centre  
-  - image: "/img/clients/logo1.jpg"
+  - image: "/img/svg/mandala4.png"
     url: "#"
     name: Jolly Puppets  
