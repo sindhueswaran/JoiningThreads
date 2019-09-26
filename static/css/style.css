@@ -867,10 +867,8 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .workbox{
-    display:block;
-    width:100%;
-    height:200px;
-    background-color:#475;	
+    min-height:200px;
+     	
 }
 
 /*---------------------------------------------
