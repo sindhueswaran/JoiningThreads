@@ -553,7 +553,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .owl-item{
-    
+    min-width: 260px;
     justify-content: center;
 }
 
