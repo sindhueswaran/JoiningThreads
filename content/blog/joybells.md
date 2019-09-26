@@ -14,4 +14,4 @@ At Joybells in 2018, so many scarves, caps, handwarmers have been knitted by the
 
 <img src="/img/blog/joybells/joybells1.jpg" style="width: 30%; margin-right: 30px;">
 <img src="/img/blog/joybells/joybells3.jpg" style="width: 30%; margin-right: 30px">
-<img src="/img/blog/joybells/joybells2.jpg" style="width: 30%;">
+<img src="/img/blog/joybells/joybells2.jpg" style="height: 30%; ">
