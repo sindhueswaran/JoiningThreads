@@ -1563,6 +1563,30 @@ px      68    160    252    */
     max-height: 240px;
     padding: 0.5%;
 } 
+
+
+
+ /*Wrapper what we do*/
+
+.vgr-cards .card {
+    display: flex;
+    flex-flow: wrap;
+    flex: 100%;
+    margin-bottom: 20px;
+  }
+
+.vgr-cards .card:nth-child(even) .card-img-body {
+    order: 2;
+  }
+  .vgr-cards .card:nth-child(even) .card-body {
+    padding-left: 0;
+    padding-right: 1.25rem;
+  }
+
+  .card{
+    min-height: 300px;
+  }
+
   
 
 
