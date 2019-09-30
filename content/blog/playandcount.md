@@ -5,8 +5,6 @@ description = "Play and Count"
 tags = ["workshop"] 
 categories = ["workshop"] 
 image = "img/blog/playandcount/pnc1.jpg" 
-author = "Sindhu Eswaran" 
-summary = "These moments are taken from the elementary classes at Nirvanavan, where the kids are making felt balls that are later going to be used as learning aids in counting and sorting." 
 +++
 
  At Advaita Garden’s Elementary School the kids made felt balls. There was much curiosity, excitement, lots of soapy water  <!--more--> and raw wool, creating delightful chaos. We began making a ball adding soapy water slowly while singing together to harmonize our hand movements, covering some of the tiny hands in soapy bubbles. Kids were enjoying working independently and left with super clean hands! Certainly a win-win situation for all. After placing the balls to dry, we discussed with the teachers ways to use these balls for play and counting.
