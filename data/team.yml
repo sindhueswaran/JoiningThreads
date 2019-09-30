@@ -1,15 +1,16 @@
 enable: true
 title: About us
 subtitle: >
+   Yogabija and Sindhu’s collaboration and friendship started spontaneously in 2018 when they met in Rishikesh.
    
 content:
 
   - image: "/img/team/yb.jpg"
     name: Barbara Münz
     text: >
-      Sindhu is an educator and enthusiastic knitter whose interests have combined in her ongoing work with women and children. In 2017 a ‘short travel’ turned into her home base where travel she found herself working for AtmaSeva in administrative support and tutoring a few children in English and creating health and hygiene awareness with girls and women from below poverty level income families. She met Yogabija in 2018 and the two of them visit different projects together.
+      Yogabija from Germany, is a mother and a yoga teacher who has been passionately creating and knitting for 50 years. She is a master crafts woman who shares her skills most generously.
 
   - image: "/img/team/sindhu.jpg"
     name: Sindhu Eswaran
     text: >
-      Sindhu is an educator and enthusiastic knitter whose interests have combined in her ongoing work with women and children. In 2017  a ‘short travel’ turned into her home base where travel she found herself working for AtmaSeva in administrative support and tutoring a few children in English and creating health and hygiene awareness with girls and women from below poverty level income families. She met Yogabija in 2018 and the two of them visit different projects together.
+      Sindhu from India, is an enthusiastic, creative educator whose interests and wide range of skills have combined in her ongoing work with women and children.
