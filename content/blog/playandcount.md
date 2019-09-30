@@ -9,8 +9,7 @@ author = "Sindhu Eswaran"
 summary = "These moments are taken from the elementary classes at Nirvanavan, where the kids are making felt balls that are later going to be used as learning aids in counting and sorting." 
 +++
 
-These moments are taken from the elementary classes at Advaita Garden, the School premises of Nirvanavan Foundation, <!--more--> where the kids are making felt balls that are later going to be used as learning aids in counting and sorting. The beginning included curiosity, excitement, lots of soapy water and raw wool, so there was a bit of delightful chaos. . We began making a ball adding soapy water slowly and singing together to harmonize our hand movements. Towards the end, we had some of the tiny hands covered in soapy bubbles. I like that the kids are working independently, they are enjoying; we left with clean hands and a clean classroom. Certainly a win-win situation for both the teachers and children.
-After placing the balls to dry, the teachers discussed different ideas to use these balls for play and counting.
+ At Advaita Garden’s Elementary School the kids made felt balls. There was much curiosity, excitement, lots of soapy water  <!--more--> and raw wool, creating delightful chaos. We began making a ball adding soapy water slowly while singing together to harmonize our hand movements, covering some of the tiny hands in soapy bubbles. Kids were enjoying working independently and left with super clean hands! Certainly a win-win situation for all. After placing the balls to dry, we discussed with the teachers ways to use these balls for play and counting.
 
 <br><br>
 
