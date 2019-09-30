@@ -8,9 +8,9 @@ image = "img/blog/whenteachersplay/wtp3.jpg"
 +++
 
 
-“What are we going to do with all the teachers tomorrow?” Let’s play we said in synchronicity. <!--more-->
+“What are we going to do with all the teachers tomorrow?” Let’s play we said in synchronicity.
 
-We gathered materials to felt two 10 x 10 inch pieces. We formed two groups and gave the brief was to come up with a story and present it in a felt picture. 
+We gathered materials to felt  <!--more--> two 10 x 10 inch pieces. We formed two groups and gave the brief was to come up with a story and present it in a felt picture. 
 
 The process is to lay out the wool criss-cross in fine layers, slowly adding soapy water, then using palms and fingers in slow movements to bind them together. Two unique stories were presented. The teachers really enjoyed it which led to a discussion about encouraging more student participation which can also be great fun as this long hourof play and teamwork had shown.
 
