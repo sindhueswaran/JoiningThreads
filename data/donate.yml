@@ -1,29 +1,23 @@
 enable: true
-title: How can you help?
+title: Would you like to help?
 subtitle: >
   
 content:
 
   - icon: ion-leaf
     img: "/img/svg/mandala1.png"
-    name: Make a donation to cover our travel expenses to reach out to more projects.
+    name: By buying or selling these beautiful products from our colleagues.
     text: >
        
 
   - icon: ion-planet
     img: "/img/svg/mandala3.png"
-    name: By buying or selling  products from our partners.
+    name: By donating wool, crochet and knitting needles for the women to use.
     text: >
        
 
   - icon: ion-earth
     img: "/img/svg/mandala2.png"
-    name: Connecting us with projects and platforms.
+    name: By making a financial contribution towards our work.
     text: >
-       
-
-  - icon: ion-earth
-    img: "/img/svg/mandala4.png"
-    name: Donating craft materials and other supplies. 
-    text: >
-          
+        
