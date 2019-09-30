@@ -5,11 +5,14 @@ description = "When educators play"
 tags = ["workshop"] 
 categories = ["workshop"] 
 image = "img/blog/whenteachersplay/wtp3.jpg" 
-author = "Sindhu Eswaran" 
-summary = "Let’s play we spoke in synchronicity" 
 +++
 
-Having rearranged the daily agenda to work with all the teaching staff at once, Yogabija and I wondered what could we do the next afternoon. <!--more--> Let's play we spoke in synchronicity. Gathering our materials to felt a 10 x 10 inch piece, we formed two groups and the brief was to felt a picture; come up with a story and present it. You begin by laying out the wool criss-cross in fine layers, slowly adding soapy water and then using palms and fingers in slow movements to bind them together. In this process we elicited how group activities can be fun as well as allowing more participation from students. At the end, we had two unique stories; felted fabric and a few more teaching techniques to use in secondary classes and a long hour of play, teamwork and fun!
+
+“What are we going to do with all the teachers tomorrow?” Let’s play we said in synchronicity. <!--more-->
+
+We gathered materials to felt two 10 x 10 inch pieces. We formed two groups and gave the brief was to come up with a story and present it in a felt picture. 
+
+The process is to lay out the wool criss-cross in fine layers, slowly adding soapy water, then using palms and fingers in slow movements to bind them together. Two unique stories were presented. The teachers really enjoyed it which led to a discussion about encouraging more student participation which can also be great fun as this long hourof play and teamwork had shown.
 
 
 <br><br>
