@@ -9,33 +9,22 @@
            <!--<p>{{ .Site.Params.wrapper.italic }}</p>  -->
           </div>
 
-
     <div class="container" >
-      <div class="row">
-       <div class="col-md-12">
-        <div class="block">
-        <div class="project">
-        
-        <ul>
-        {{ range .Site.Data.work.portfolio }}
-        <li class="project-item">
-          <div class="card col-sm-4"  >
-            <img class="img-responsive" src="{{ $.Site.BaseURL }}{{ .image }}" alt="Card image">
-            <div class="card-body">
-              <h4 class="card-title">{{ .name }}</h4>
-              <p class="card-text">{{ .description }}</p>    
-            </div>
-          </div>     
-        </li>
-        {{ end }}
-        </ul>
+        <div class="card-group vgr-cards col-md-12 col-md-offset-1">
+            {{ range .Site.Data.work.portfolio }}
+            <div class="card">
+                <div class="card-img-body col-md-4">
+                  <img class="card-img" src="{{ $.Site.BaseURL }}{{ .image }}" alt="Card image cap">
+                </div>
+                  <div class="card-body col-md-6  ">
+                <h4 class="card-title">{{ .name }}</h4>
+                <p class="card-text">{{ .description }}</p>           
+              </div>
+            </div> 
+          {{ end }} 
         </div>
-        </div>
-        </div>
-
-
-  </div>  
-  </div>
+      </div>  
+    </div>
   </div>
 </section>
 
