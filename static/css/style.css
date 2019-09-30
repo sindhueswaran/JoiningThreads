@@ -1515,7 +1515,18 @@ px      68    160    252    */
     text-align: center;
     padding: 90px 0;
   }
-  #team .team-item {
+  
+
+  #team .section-title p {
+      font-family: 'Roboto', sans-serif;
+      font-style: normal;
+      font-size: 15px;
+      line-height: 28px;
+      padding-top: 50px;
+  }
+
+
+#team .team-item {
     padding-bottom: 30px;
     }
   
