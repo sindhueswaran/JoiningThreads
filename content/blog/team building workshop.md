@@ -1,5 +1,5 @@
 +++
-title = "At Nirvanavan Foundation"
+title = "Teacher Training at Advaita Garden School, Alwar, Rajasthan"
 date = "2019-02-28T13:50:46+02:00"
 description = "Teacher Training at Advaita Garden School, Alwar, Rajasthan"
 tags = ["workshop"]
