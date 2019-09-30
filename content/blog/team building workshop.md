@@ -1,15 +1,15 @@
 +++
 title = "At Nirvanavan Foundation"
 date = "2019-02-28T13:50:46+02:00"
-description = "At Nirvanavan Foundation"
+description = "Teacher Training at Advaita Garden School, Alwar, Rajasthan"
 tags = ["workshop"]
 categories = ["workshop"]
 image = "/img/blog/krishnablog/krishna33.jpg"
-author = "Sindhu Eswaran"
 +++
 
-Krishna, teacher and a beginner knitter, was hesitating to knit along with her colleagues who had some experience.<!--more--> Starting  with the basic cast on and  knit stitches; unraveling the yarn and starting over quite a few times wasn’t keeping her happy. However, we persisted and continued with the same basic stitches. Close to the end, Krishna was at ease; had knit a few lines  and was extremely pleased with herself, motivating her to continue with her peers. 
-Drawing similarities to children learning at their own pace, the teachers took their knitting home with the experience and perspective of being a learner.  
+Krishna, teacher and a beginner knitter, was hesitant to knit along with her colleagues who had some experience. Starting with the basic cast on and knit stitches; unraveling the yarn and starting again several times was challenging. However, we patiently persisted with her and by the end, Krishna was confident and extremely pleased with the few lines she had mastered which motivated her to continue along with her peers. 
+
+We discussed and drew similarities with the teachers about children learning at their own different paces. We donated a big bag of yarn and needles and end of the day the group took their knitting home with the experience and perspective of all being beginners.  
 
 <br><br>
 
