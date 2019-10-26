@@ -106,7 +106,7 @@ theme = "airspace-hugo"
     [params.contact.box]
       title = "Write to us"
       address = " "
-      email = "Email: contact@mail.com"
+      email = "Email: joiningthreads@gmail.com"
       phone = " "
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
