@@ -29,7 +29,7 @@
     <div class="row">
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form name="contactus" method="POST" data-netlify="true">
+          <form name="contactus" method="POST" data-netlify="true" action= "/thanks">
             <div class="form-group">
               <input type="text" name="name" class="form-control" placeholder="{{ .form.name }}" />
             </div>
@@ -44,7 +44,7 @@
       </div>
       <div class="col-md-6 col-sm-12">
         <div class="block">
-          <form name="contactus" method="POST" data-netlify="true" action= "/thanks">
+          <form name="contactus" method="POST" data-netlify="true" >
             <div class="form-group-2">
               <textarea name="message" class="form-control" rows="3" placeholder="{{ .form.message }}"></textarea>
             </div>
