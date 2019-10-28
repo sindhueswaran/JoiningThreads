@@ -1,0 +1,33 @@
+{{ partial "global-header.html" . }}
+
+<!-- contact form start -->
+{{ with .Site.Params.contact }}
+<section id="thanks">
+  <div class="container">
+      <div id="contact-box" class="row">
+          <div class="col-sm-12 text-center">
+            <div class="block">
+    
+              <h2>{{ .box.title }}</h2>
+              <ul class="address-block">
+                  <li>
+                      <i class="fa fa-envelope-o"></i>{{ .box.email }}
+                    </li>
+              
+              </ul>
+              <ul class="social-icons">
+              {{ range .social }}  
+                <li>
+                  <a href="{{ .url }}"><i class="fa {{ .icon }}"></i></a>
+                </li>
+              {{ end }}
+              </ul>
+            </div>
+          </div>
+        </div>
+     
+     
+    
+  </div>
+</section>
+{{ end }}
