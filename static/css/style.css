@@ -73,19 +73,19 @@ h6 {
 h2 {
     font-size: 30px;
     font-weight: 400;
-    color: #655E7A;
+    color: #46767b;
 }
 
 h3 {
     font-size: 28px;
     font-weight: 300;
-    color: #655E7A;
+    color: #46767b;
 }
 
 h4 {
     font-size: 22px;
     font-weight: 300;
-    color: #655E7A;
+    color: #46767b;
 }
 
 p {
@@ -133,7 +133,7 @@ a:active {
 .btn-main,
 .btn-transparent,
 .btn-small {
-    background: #655E7A;
+    background: #46767b;
     color: #fff;
     display: inline-block;
     font-size: 14px;
@@ -159,8 +159,8 @@ a:active {
 }
 
 .btn-solid-border:hover {
-    border: 1px solid #655E7A;
-    background: #655E7A;
+    border: 1px solid #46767b;
+    background: #46767b;
 }
 
 
@@ -431,7 +431,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #feature .btn-view-works {
-    background: #655E7A;
+    background: #46767b;
     color: #fff;
     padding: 10px 20px;
 }
@@ -646,7 +646,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #portfolio-work .block .portfolio-menu ul .active {
-    color: #655E7A;
+    color: #46767b;
     position: relative;
 }
 
@@ -729,7 +729,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant ul li a span {
     font-style: italic;
     font-size: 13px;
-    color: #655E7A;
+    color: #46767b;
 }
 
 #portfolio-work .block .portfolio-contant ul img {
@@ -1028,7 +1028,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 .post-title {
-    color: #655E7A;
+    color: #46767b;
     font-size: 25px;
     font-weight: 600;
     display: block;
