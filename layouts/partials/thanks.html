@@ -1,14 +1,19 @@
 {{ partial "global-header.html" . }}
 
 <!-- contact form start -->
-{{ with .Site.Params.contact }}
-<section id="thanks">
+{{ with .Site.Params.thanks }}
+<section id="contact-form">
   <div class="container">
-      <div id="thanks" class="row">
+      <div id="contact-box" class="row">
+          <div class="col-sm-12 text-center">
+            <div class="block">
+    
+              <h2>{{ .title }}</h2>
+              <h4>{{ .subtitle }}</h4>
         
-        <main>{{ .Content }}</main>
-        
-        <hr>
+            </div>
+          </div>
+        </div>
   </div>
 </section>
 {{ end }}
