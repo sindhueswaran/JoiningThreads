@@ -110,3 +110,7 @@ theme = "airspace-hugo"
       phone = " "
     [params.contact.gmaps]
       title = "We Also Count in Google Maps"
+    [params.thanks]
+      enable = true
+      title = "Your message was sent."
+      subtitle = "Thank you for your message we will get back to you."
