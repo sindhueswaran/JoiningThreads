@@ -90,8 +90,8 @@ theme = "airspace-hugo"
     title = " "
     paragraph = " "
     [params.call.button]
-      url = "/blog"
-      text = "Read some of our stories"
+      url = "/contact"
+      text = "Write to us"
 
   [params.contact]
     enable = true
