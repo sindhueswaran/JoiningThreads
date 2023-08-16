@@ -61,7 +61,7 @@ export default function projectLayout({ params }) {
     <Section>
       <Container>
         <article>
-          <div className="grid grid-cols-3 gap-8 mb-10">
+          <div className="grid lg:grid-cols-3 gap-8 mb-10">
             <div className=" ">
               <Image
                 className="w-full rounded-md"
@@ -71,7 +71,7 @@ export default function projectLayout({ params }) {
                 height={480}
               />
             </div>
-            <div className="col-span-2">
+            <div className="lg:col-span-2">
               <h3 className="pb-3 font-serif font-semibold text-jt-primary text-4xl">
                 {project.title}
               </h3>
