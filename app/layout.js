@@ -65,7 +65,7 @@ export default function RootLayout({ children }) {
   return (
     <html
       lang="en"
-      className={`${pacifico.variable} ${oranienbaum.variable} ${roboto.variable}`}
+      className={`overflow-x-hidden ${pacifico.variable} ${oranienbaum.variable} ${roboto.variable}`}
     >
       <body>
         <main>
