@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div>
       <footer className="bg-gray-500 py-5 border-t-4 border-jt-primary">
-        <nav className="flex justify-center py-5">
+        <nav className="text-center md:flex justify-center py-5">
           {MenuData.map((data, index) => {
             return (
               <li key={{ index }} className="list-none mx-2">
