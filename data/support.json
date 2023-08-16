@@ -1,0 +1,17 @@
+{
+  "supporttitle": "Would you like to help?",
+  "supportitems": [
+    {
+      "image": "/images/support/mandala1.png",
+      "text": "By buying or selling these beautiful products from our craftswomen."
+    },
+    {
+      "image": "/images/support/mandala2.png",
+      "text": "By donating wool, crochet and knitting needles for the women to use."
+    },
+    {
+      "image": "/images/support/mandala3.png",
+      "text": "By making a financial contribution towards our work."
+    }
+  ]
+}

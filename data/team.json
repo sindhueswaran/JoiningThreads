@@ -1,0 +1,18 @@
+{
+  "teamtitle": {
+    "title": "About us",
+    "text": "Barbara and Sindhu’s collaboration and friendship started spontaneously in 2018 when they met in Rishikesh."
+  },
+  "teammembers": [
+    {
+      "name": "Barbara Münz",
+      "image": "/images/team/yb.jpg",
+      "text": "Barbara from Germany is a mother, yoga teacher and Master Crafts woman for 50 years. She shares her passion, time, resources and expertise most generously."
+    },
+    {
+      "name": "Sindhu Eswaran",
+      "image": "/images/team/sindhu.jpg",
+      "text": "Sindhu from India, is an enthusiastic, creative educator whose interests and wide range of skills have combined in her ongoing work with women and children."
+    }
+  ]
+}

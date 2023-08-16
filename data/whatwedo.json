@@ -1,0 +1,20 @@
+{
+  "wwdtitle": "What we do",
+  "wwditem": [
+    {
+      "title": "Women Skill Building",
+      "image": "/images/whatwedo/knitting.jpg",
+      "text": "We work with womens groups teaching and sharing knitting, crochet, felting and sewing techniques through free classes and workshops for Non Government Organisations in New Delhi, Rajasthan and Uttarakhand."
+    },
+    {
+      "title": "Education",
+      "image": "/images/whatwedo/children.jpg",
+      "text": "We offer teacher trainings and workshops to children and teenagers using arts and crafts to facilitate various different ways of learning through classroom activities."
+    },
+    {
+      "title": "Encouraging wealth for women",
+      "image": "/images/whatwedo/markets.jpg",
+      "text": "Our  craftswomen are currently paid cash in hand directly. It is our policy to ensure they receive Fair Trade rates for every item made enabling them to contribute to their household expenses. It is a future hope and aim to find and collaborate with interested individuals and groups who can purchase these products thereby providing support for more woman."
+    }
+  ]
+}

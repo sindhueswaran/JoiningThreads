@@ -1,0 +1,16 @@
+{
+  "herotitle": [ "Joining threads", "Joining lives" ],
+  "herosubtitle": "Creativity develops confidence, awakens dormant talents and promotes resourcefulness while availing possibilities to improve livelihoods. We promote and share handicraft skills with a majority of disadvantaged women and children in projects in North India.",
+  "contact": [
+    {
+      "text": "joiningthreads@gmail.com",
+      "link": "mailto:joiningthreads@gmail.com",
+      "icon": "fa:envelope-o"
+    },
+    {
+      "text": "follow us on Instagram",
+      "link": "https://www.instagram.com/joiningthreadsjoininglives/",
+      "icon": "fa:instagram"
+    }
+  ]
+}
