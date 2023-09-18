@@ -38,7 +38,7 @@ export default function Hero() {
                 <h4 className="w-5/6 lg:w-1/2 text-xl mx-auto mb-5">
                   {SiteMeta.herosubtitle}
                 </h4>
-                <Link href="/blog">
+                <Link href="/projects">
                   <Button>
                     <p className="font-bold">OUR PROJECTS</p>
                   </Button> 
